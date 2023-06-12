@@ -178,7 +178,7 @@ a {
     position: relative;
     height: 425px;
     width: 256px;
-    background-image: url("/img/card-bg.svg");
+    background-image: url("../img/card-bg.svg");
     background-repeat: no-repeat;
     background-position: -24px -17px;
     padding-top: 53px;
@@ -325,7 +325,7 @@ a {
     width: 56px;
     max-width: 56px;
     height: 56px;
-    background-image: url("/img/right-arrow.svg");
+    background-image: url("../img/right-arrow.svg");
     background-repeat: no-repeat;
     background-position: center center;
     background-color: #00A88E;
@@ -344,7 +344,7 @@ a {
     width: 56px;
     max-width: 56px;
     height: 56px;
-    background-image: url("/img/left-arrow.svg");
+    background-image: url("../img/left-arrow.svg");
     background-repeat: no-repeat;
     background-position: center center;
     background-color: #00A88E;
