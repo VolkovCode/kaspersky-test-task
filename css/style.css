@@ -109,7 +109,7 @@ a {
     color: #666666;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1199px) {
     .current-address {
         margin-bottom: 16px;
     }
@@ -381,7 +381,7 @@ a {
     position: relative;
     height: 425px;
     width: 256px;
-    background-image: url("/img/card-bg.svg");
+    background-image: url("../img/card-bg.svg");
     background-repeat: no-repeat;
     background-position: -24px -17px;
     padding-top: 53px;
@@ -552,7 +552,7 @@ a {
 }
 
 .right-arrow {
-    background-image: url("/img/right-arrow.svg");
+    background-image: url("../img/right-arrow.svg");
 }
 
 .left-arrow__wrapper {
@@ -576,7 +576,7 @@ a {
 }
 
 .left-arrow {
-    background-image: url("/img/left-arrow.svg");
+    background-image: url("../img/left-arrow.svg");
 }
 
 .left-arrow:disabled {
